@@ -1,0 +1,34 @@
+head {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    font-size: 14;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+#info{
+    color: aqua;
+}
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+a:link {
+    padding: 5px;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+a:hover {
+    color: blue;
+    background-color: yellow;
+}
+
+a:visited {
+    color: black;
+}
